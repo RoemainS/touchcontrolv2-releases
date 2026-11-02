@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.0.13",
-    "url":  "https://github.com/RoemainS/touchcontrolv2-releases/releases/download/v2.0.13/TouchControlv2-setup-v2.0.13.exe",
-    "sha256":  "1cc19c70c01b889788b25c4a1bc586c3a8aa264f6c9bb10d4525d0d8959f5659",
+    "version":  "2.0.14",
+    "url":  "https://github.com/RoemainS/touchcontrolv2-releases/releases/download/v2.0.14/TouchControlv2-setup-v2.0.14.exe",
+    "sha256":  "a42ea641e9311023386ad85bd5921da8d3eff9526f91e4d1041c83db20d4d500",
     "releaseDate":  "2026-11-02",
-    "notes":  "Dubbel systeemvak-icoon opgelost."
+    "notes":  "Nieuw instellingenvenster via het systeemvak. Kies tussen Eyecast App en Chrome/Edge, en download Eyecast App direct vanuit TouchControl."
 }
